@@ -1,0 +1,31 @@
+    body {
+      background-color: powderblue;
+    }
+    hr {
+     background-color: maroon;
+     border-style:outset;
+      border-width: 8px;
+      height: 5px;
+      width: 30%;
+      border-color:gray;
+
+      /*border-style: dotted none none none;
+      height: 0px;
+      border-color: black;
+      border-width: 10px;
+      width: 6%;*/
+
+    }
+    img {
+      border-style: outset;
+      background-color: maroon;
+      border-width: 20px;
+      border-color: white;
+    }
+    h3{
+color: red;
+    }
+    h1{
+
+      color: black;
+    }
